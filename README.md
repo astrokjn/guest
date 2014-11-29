@@ -10,3 +10,5 @@ guest
 3. angularJS
 4. expressJS
 5. aaa
+
+>git clone https://github.com/astrokjn/guest.git projectname
